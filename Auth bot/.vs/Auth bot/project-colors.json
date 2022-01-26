@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "df1fca9e-edde-46da-872b-ca66ba88c0c1": {
+      "ProjectGuid": "df1fca9e-edde-46da-872b-ca66ba88c0c1",
+      "DisplayName": "Auth bot",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -16,7 +16,7 @@ namespace Auth_Bot
         {
             var Client = new DiscordClient(new DiscordConfiguration
             {
-                Token = "OTM1Nzg1OTU4NDkyNzY2MjI5.YfDslg.qMQppihIyGC_D0K1LAiykbPm8Nc",
+                Token = "OTM1Nzg1OTU4NDkyNzY2MjI5.YfDslg.MSj5mlR0WdVoRdltstm_AKYxf_0",
                 Intents = DiscordIntents.AllUnprivileged,
                 TokenType = TokenType.Bot
             });
