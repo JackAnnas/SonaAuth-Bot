@@ -1,0 +1,25 @@
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\obj\Debug\net6.0\Auth bot.csproj.AssemblyReference.cache
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\obj\Debug\net6.0\Auth bot.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\obj\Debug\net6.0\Auth bot.AssemblyInfoInputs.cache
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\obj\Debug\net6.0\Auth bot.AssemblyInfo.cs
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\obj\Debug\net6.0\Auth bot.csproj.CoreCompileInputs.cache
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\bin\Debug\net6.0\Auth bot.exe
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\bin\Debug\net6.0\Auth bot.deps.json
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\bin\Debug\net6.0\Auth bot.runtimeconfig.json
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\bin\Debug\net6.0\Auth bot.dll
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\bin\Debug\net6.0\ref\Auth bot.dll
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\bin\Debug\net6.0\Auth bot.pdb
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\bin\Debug\net6.0\ConcurrentCollections.dll
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\bin\Debug\net6.0\DSharpPlus.dll
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\bin\Debug\net6.0\DSharpPlus.CommandsNext.dll
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\bin\Debug\net6.0\DSharpPlus.Interactivity.dll
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\bin\Debug\net6.0\Emzi0767.Common.dll
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\obj\Debug\net6.0\Auth bot.csproj.CopyComplete
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\obj\Debug\net6.0\Auth bot.dll
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\obj\Debug\net6.0\ref\Auth bot.dll
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\obj\Debug\net6.0\Auth bot.pdb
+D:\github\auth bot\SonaAuth-Bot\Auth bot\Auth bot\obj\Debug\net6.0\Auth bot.genruntimeconfig.cache
