@@ -27,28 +27,7 @@ public class DevPoints : BaseCommandModule
 
        await member.SendMessageAsync(embed);
     }
-    [Command("kick")]
-    public async Task kick(CommandContext ctx, DiscordMember member)
-    {
-        await member.RemoveAsync();
-
-        string guild =  ctx.Guild.Name;
-
-        var dm = new DiscordEmbedBuilder()
-        {
-            Description = $"you have been banned from {guild}"
-        };
-
-        var embed = new DiscordEmbedBuilder()
-        {
-            Description =  $"you kicked {member} from this guild"
-        };
-
-      
-        await member.SendMessageAsync(dm);
-        await ctx.RespondAsync(embed);
-
-    }
+   
    
 
 }
